@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "regions": [
+    {
+      "id": "tezonapa-cosolapa",
+      "name": "Tezonapa y Cosolapa",
+      "bounds": [-97.159, 18.151, -96.211, 19.049],
+      "streets": {
+        "url": "https://github.com/jaimeCervantes/HazloSano-MapStyles/releases/download/mapa-region-20261117/region.pmtiles",
+        "bytes": 14296342
+      },
+      "relief": {
+        "url": "https://github.com/jaimeCervantes/HazloSano-MapStyles/releases/download/relieve-region-20261121/relieve.pmtiles",
+        "bytes": 21797239
+      },
+      "contours": {
+        "url": "https://github.com/jaimeCervantes/HazloSano-MapStyles/releases/download/relieve-region-20261121/curvas.pmtiles",
+        "bytes": 3111608
+      }
+    },
+    {
+      "id": "orizaba-perote-xalapa",
+      "name": "Orizaba, Perote y Xalapa",
+      "bounds": [-97.575, 18.75, -96.625, 19.65],
+      "streets": {
+        "url": "https://github.com/jaimeCervantes/HazloSano-MapStyles/releases/download/orizaba-perote-xalapa-20261121/region.pmtiles",
+        "bytes": 19183264
+      },
+      "relief": {
+        "url": "https://github.com/jaimeCervantes/HazloSano-MapStyles/releases/download/orizaba-perote-xalapa-20261121/relieve.pmtiles",
+        "bytes": 24639572
+      },
+      "contours": {
+        "url": "https://github.com/jaimeCervantes/HazloSano-MapStyles/releases/download/orizaba-perote-xalapa-20261121/curvas.pmtiles",
+        "bytes": 3275675
+      }
+    }
+  ]
+}
